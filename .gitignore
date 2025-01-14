@@ -1,4 +1,4 @@
-# Ignore Visual Studio and build files
+# Ignore Visual Studio files
 .vs/
 *.suo
 *.user
@@ -18,3 +18,9 @@
 *.cache
 *.tlog
 *.VC.db
+
+# Ignore solution files
+*.sln
+
+# Ignore build output folders
+x64/
