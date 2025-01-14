@@ -1,3 +1,5 @@
+# its my First small project from 3 months(10/29/2024) before i learn github and git 
+
 # Stone-Paper-Scissors Game
 
 This is a simple console-based Stone, Paper, Scissors game written in C++.
